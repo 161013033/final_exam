@@ -1,0 +1,402 @@
+<svg id="组_1" data-name="组 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 900 600">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-19, .cls-2, .cls-20, .cls-28, .cls-29, .cls-8, .cls-9 {
+        fill: #aeeaf0;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: #fae8a0;
+      }
+
+      .cls-3 {
+        filter: url(#filter-2);
+      }
+
+      .cls-4 {
+        filter: url(#filter-3);
+      }
+
+      .cls-5 {
+        filter: url(#filter-4);
+      }
+
+      .cls-6 {
+        filter: url(#filter-5);
+      }
+
+      .cls-7 {
+        opacity: 0.95;
+        filter: url(#filter-6);
+      }
+
+      .cls-8 {
+        filter: url(#filter-7);
+      }
+
+      .cls-9 {
+        filter: url(#filter-8);
+      }
+
+      .cls-10 {
+        filter: url(#filter-9);
+      }
+
+      .cls-11 {
+        filter: url(#filter-10);
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        fill: #cfd2f5;
+      }
+
+      .cls-12 {
+        filter: url(#filter-11);
+      }
+
+      .cls-13 {
+        filter: url(#filter-12);
+      }
+
+      .cls-15 {
+        filter: url(#filter-13);
+      }
+
+      .cls-16 {
+        opacity: 0.98;
+        filter: url(#filter-14);
+      }
+
+      .cls-17 {
+        filter: url(#filter-15);
+      }
+
+      .cls-18 {
+        filter: url(#filter-16);
+      }
+
+      .cls-19 {
+        filter: url(#filter-17);
+      }
+
+      .cls-20 {
+        filter: url(#filter-18);
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-27, .cls-30 {
+        fill: #eff2f9;
+      }
+
+      .cls-21 {
+        filter: url(#filter-19);
+      }
+
+      .cls-22 {
+        filter: url(#filter-20);
+      }
+
+      .cls-23 {
+        filter: url(#filter-21);
+      }
+
+      .cls-24, .cls-25, .cls-26, .cls-31 {
+        fill: #e7ced9;
+      }
+
+      .cls-24 {
+        filter: url(#filter-22);
+      }
+
+      .cls-25 {
+        filter: url(#filter-23);
+      }
+
+      .cls-26 {
+        filter: url(#filter-24);
+      }
+
+      .cls-28 {
+        filter: url(#filter-25);
+      }
+
+      .cls-29 {
+        filter: url(#filter-26);
+      }
+
+      .cls-30 {
+        filter: url(#filter-27);
+      }
+
+      .cls-31 {
+        filter: url(#filter-28);
+      }
+    </style>
+    <filter id="filter" x="549" y="28" width="256" height="227" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.585" dy="1.913" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#a5a5a5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="38" y="-3" width="195" height="191" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-1.816" dy="3.564" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#040000" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="503" y="-7" width="153" height="223" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.74"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="582" y="164" width="115" height="120" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.669" dy="0.743" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.91"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="444" y="177" width="76" height="108" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.71"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="291" y="324" width="155" height="235" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="3.147" dy="3.886" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#9f9671"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="699" y="258" width="209" height="352" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-7" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.8"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="74" y="321" width="264" height="145" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.362" dy="-2.673" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#869ea0" flood-opacity="0.77"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="286" y="-10" width="145" height="163" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.204" dy="1.597" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#829da0"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="450" y="323" width="149" height="78" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="3.886" dy="-3.147" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="312" y="172" width="38" height="145" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="4.243" dy="4.243" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#848598" flood-opacity="0.73"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="425" y="275" width="86" height="38" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.741" dy="1.22" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.82"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-13" x="391" y="118" width="54" height="50" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="3.346" dy="3.716" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a1a2b0"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-14" x="239" y="71" width="122" height="98" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-2.27" dy="4.455" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a1a2b0"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-15" x="527" y="403" width="179" height="157" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="4.872" dy="-1.125" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#a5a5a5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-16" x="227" y="459" width="110" height="142" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="4.938" dy="0.782" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.91"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-17" x="0" y="143" width="88" height="227" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="8.803" dy="-1.871" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="1.732"/>
+      <feFlood result="flood" flood-color="#829da0" flood-opacity="0.77"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-18" x="190" y="169" width="141" height="149" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-1.545" dy="2.572" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.71"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-19" x="467" y="123" width="51" height="69" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-0.813" dy="1.827" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#7e8384" flood-opacity="0.48"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-20" x="91" y="179" width="102" height="176" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-2.407" dy="-3.195" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.162"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-21" x="599" y="288" width="181" height="185" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3"/>
+      <feFlood result="flood" flood-color="#929498"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-22" x="368" y="181" width="52" height="49" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.993" dy="0.209" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-23" x="622" y="119" width="160" height="170" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.484" dy="1.941" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-24" x="-10" y="446" width="252" height="208" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-1.268" dy="-2.719" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-color="#a5a5a5"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-25" x="502" y="507" width="129" height="102" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-4.668" dy="-1.792" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-26" x="368" y="214" width="52" height="81" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="1.939" dy="3.498" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.84"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-27" x="422" y="182" width="29" height="71" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.741" dy="-1.22" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.236"/>
+      <feFlood result="flood" flood-color="#a5a5a5" flood-opacity="0.81"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-28" x="422" y="234" width="28" height="43" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="2.121" dy="-2.121" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.449"/>
+      <feFlood result="flood" flood-color="#baaeb3"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="矩形_1" data-name="矩形 1" class="cls-1" x="-12" y="-13" width="931" height="622"/>
+  <path id="形状_26" data-name="形状 26" class="cls-2" d="M554.007,204.389s28.779,13.036,37.074,26.2l73.912-101.885L771.278,246.013,797,204.385,648.287,32Z"/>
+  <path id="形状_1" data-name="形状 1" class="cls-3" d="M47,0s0,25,3,29,13,6,13,6l9-1,1,112s57,58,154,10V1"/>
+  <path id="形状_2" data-name="形状 2" class="cls-4" d="M512,2V183s42,16,42,23c0,0,98-169,91-170S614,5,606,3"/>
+  <path id="形状_3" data-name="形状 3" class="cls-5" d="M590,230.375s46.478,32.714,48.423,41.637c1.971,9.038,47.329-47.631,47.329-47.631s-51.373-51.313-55.951-52"/>
+  <path id="形状_4" data-name="形状 4" class="cls-6" d="M452,219l7-33,26-1s41,30,20,91H455Z"/>
+  <path id="形状_5" data-name="形状 5" class="cls-7" d="M345,486V329h77V485h11v60H319l-22-22V489Z"/>
+  <path id="形状_6" data-name="形状 6" class="cls-8" d="M771.679,293.344l21.8-21.206L840.854,311.7,860.44,267.51l39.336,35.632,4.777,295.969-30.026-2.719L873.086,549.4l-150.031-2.593L715.52,489.88S874.053,439.39,771.679,293.344Z"/>
+  <path id="形状_7" data-name="形状 7" class="cls-9" d="M326,332s-55-12-83,39H123v33H79v58H279V413l50,1,1-77"/>
+  <path id="形状_8" data-name="形状 8" class="cls-10" d="M292-4.472V74.5l57.891,1.1v63.182s43.961-1.382,47.093,3.832v-18.6L422,124.43V91.417l-18.756-.342V66.289L383.4,65.9V33.85l-19.883-.425V-2.8"/>
+  <path id="形状_9" data-name="形状 9" class="cls-11" d="M453.309,334.869l-0.037,60.369,133-1.64s-6.224-65.067-1.024-59.5Z"/>
+  <path id="形状_10" data-name="形状 10" class="cls-12" d="M316,175l20,1.024L338,305H318l-3-124.882"/>
+  <path id="形状_11" data-name="形状 11" class="cls-13" d="M455,276h50s-4,21-27,33H425V276"/>
+  <path id="形状_12" data-name="形状 12" class="cls-14" d="M394,140V125"/>
+  <path id="形状_13" data-name="形状 13" class="cls-15" d="M395.054,141.65s25.853,1.8,38.676,13.786l-13.317-33.763-24.022,2.07Z"/>
+  <path id="形状_15" data-name="形状 15" class="cls-16" d="M248.487,77.047L350.31,74.208l4.647,64.425s-97.408,6.009-99.119,17.215S248.487,77.047,248.487,77.047Z"/>
+  <path id="形状_16" data-name="形状 16" class="cls-17" d="M530,517V413l57-1s21,81,100,82l5,58-66-2Z"/>
+  <path id="形状_17" data-name="形状 17" class="cls-18" d="M278.677,459.01l-51.672.126L232.382,600l49.273-.024,50.338-54.416L308.474,530.89l-4.4-42.662-18.186-3.4Z"/>
+  <path id="形状_18" data-name="形状 18" class="cls-19" d="M1,147l41,2v64l33,4s-18,75,1,152L0,367Z"/>
+  <path id="形状_19" data-name="形状 19" class="cls-20" d="M321.038,175.008s-162.63,8.117-107.752,105.358c0,0,16.339,17.086,26.492,23.952L323,305Z"/>
+  <path id="形状_20" data-name="形状 20" class="cls-21" d="M511.3,129.075l-36.231-2.049L474,164.05s30.021,8.506,37,18.95Z"/>
+  <path id="形状_21" data-name="形状 21" class="cls-22" d="M102,191V344l80,4,3-151Z"/>
+  <path id="形状_22" data-name="形状 22" class="cls-23" d="M690,322l-25-19s-78,30-49,110c0,0,39,86,126,28,0,0,21-25,27-52l-24-26,15-15s-1-30-46-50C714,298,688,311,690,322Z"/>
+  <path id="形状_23" data-name="形状 23" class="cls-24" d="M372.276,187.733l-0.6,34.053,37.051,0.481,0.6-34.053Z"/>
+  <path id="形状_24" data-name="形状 24" class="cls-25" d="M642.871,272.115s54.135-30.772,107.314,5.406L773,239.211,664.794,125.757,630,171.12l51.859,55.171"/>
+  <path id="形状_25" data-name="形状 25" class="cls-26" d="M0,486.933l49,2.851V457l183,4.276L234,648-1,642.3"/>
+  <path id="形状_27" data-name="形状 27" class="cls-27" d="M604,1L796,204,898-1Z"/>
+  <path id="形状_28" data-name="形状 28" class="cls-28" d="M532,514H512l1,37.732s14,16.646,19,23.305L533,605h97l-2-53.268Z"/>
+  <path id="形状_29" data-name="形状 29" class="cls-29" d="M373.475,218.66l0,63.01,33.563,1.383L409.312,218Z"/>
+  <path id="形状_30" data-name="形状 30" class="cls-30" d="M423,187l3,62h15l2-62H423Z"/>
+  <path id="形状_31" data-name="形状 31" class="cls-31" d="M425,241v29.333L442,273V243.667Z"/>
+</svg>
